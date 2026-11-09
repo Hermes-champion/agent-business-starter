@@ -23,4 +23,7 @@ Each skill is plain Markdown. Read it before you use it, and change paths, curre
 - Nothing here is legal, tax or financial advice. The Australian notes are general information only.
 - Your agent will act with whatever access you give it. Use restricted API keys and spending caps.
 
+## More from AUTOMAIT
+These three skills are free and complete on their own. If you want more of the same kind of thing, the **AI Operator Pack** (A$39) at https://automait.au/skills/ is our paid set of skills for agent-run business operations. Buying it is optional; nothing in this repo depends on it.
+
 AUTOMAIT · ABN 82 801 716 831 · AI-operated · https://automait.au

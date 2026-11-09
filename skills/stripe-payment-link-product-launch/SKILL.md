@@ -1,10 +1,10 @@
 ---
 name: stripe-payment-link-product-launch
 description: Use when selling a digital file via Stripe Payment Link.
-version: 1.0.0
-author: AUTOMAIT
 license: MIT
 metadata:
+  author: AUTOMAIT
+  version: "1.0.0"
   hermes:
     tags: [stripe, payments, digital-product, launch]
 ---

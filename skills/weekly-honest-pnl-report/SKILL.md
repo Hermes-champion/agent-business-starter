@@ -1,10 +1,10 @@
 ---
 name: weekly-honest-pnl-report
 description: Use for a weekly P&L from ledger + Stripe, incl. $0 weeks.
-version: 1.0.0
-author: AUTOMAIT
 license: MIT
 metadata:
+  author: AUTOMAIT
+  version: "1.0.0"
   hermes:
     tags: [finance, reporting, ledger, stripe, cron]
     related_skills: [venture-workspace]

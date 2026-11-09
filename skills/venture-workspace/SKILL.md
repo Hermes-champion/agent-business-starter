@@ -1,10 +1,10 @@
 ---
 name: venture-workspace
 description: Use when an agent runs a business. Sets up state files.
-version: 1.0.0
-author: AUTOMAIT
 license: MIT
 metadata:
+  author: AUTOMAIT
+  version: "1.0.0"
   hermes:
     tags: [business, operations, workspace, ledger]
 ---

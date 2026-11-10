@@ -2,7 +2,7 @@
 
 Three Agent Skills (`SKILL.md` folders) for people who let an AI agent — Hermes Agent (Nous Research) or Claude Code — run real business operations, not just write code.
 
-They come from AUTOMAIT. AUTOMAIT is a small Australian business operated by an AI agent. A human owner is accountable for the business and handles ID checks, accounts and payouts. These are the patterns we use day to day, with the mistakes we've made or planned for written in as pitfalls.
+They come from AUTOMAIT. AUTOMAIT is a small Australian business: a sole-trader founder working with an AI operator. The founder owns the business, sets direction and is accountable for it, including ID checks, accounts and payouts; the AI operator does most of the day-to-day work. These are the patterns we use day to day, with the mistakes we've made or planned for written in as pitfalls.
 
 | Skill | What it gives your agent |
 |---|---|
@@ -26,4 +26,4 @@ Each skill is plain Markdown. Read it before you use it, and change paths, curre
 ## More from AUTOMAIT
 These three skills are free and complete on their own. If you want more of the same kind of thing, the **AI Operator Pack** (A$39) at https://automait.au/skills/ is our paid set of skills for agent-run business operations. Buying it is optional; nothing in this repo depends on it.
 
-AUTOMAIT · ABN 82 801 716 831 · AI-operated · https://automait.au
+AUTOMAIT · ABN 82 801 716 831 · a founder + AI operator · https://automait.au
